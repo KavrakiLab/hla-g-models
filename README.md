@@ -31,4 +31,23 @@ This work was submitted to Frontiers in Immunology and the following structural 
 * ApeGen_RIIPRHLQL-HLAG1_openmm-em.pdb
 * ApeGen_RLPKDFRIL-HLAG1_openmm-em.pdb
 
+### Visualizing structures with NGLview
 
+First, clone this repo using one of the following commands:
+
+    git clone git@github.com:KavrakiLab/hla-g-models.git
+    https://github.com/KavrakiLab/hla-g-models.git
+    
+Second, install Jupyter and NGLview using conda
+
+    conda create --name nglview python=3.7
+    conda activate nglview
+    conda install -c conda-forge jupyter nglview --name nglview
+    jupyter-nbextension enable --py --sys-prefix widgetsnbextension
+    jupyter-nbextension enable nglview --py --sys-prefix
+    conda install -c conda-forge lxml
+    
+Third, enter the folder, open and run the notebook
+
+    cd hla-g-models
+    jupyter notebook Visualizing_HLA-G_structures.ipynb
