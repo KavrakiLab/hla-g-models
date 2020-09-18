@@ -14,7 +14,7 @@ This work was submitted to Frontiers in Immunology and the following structural 
 
 * HLA-G1_membrane-bound-monomer.pdb
 * HLA-G1_soluble-dimer.pdb    
-* HLA-G5_monomer_pep_beta.pdb
+* HLA-G5_monomer_pep_b2m.pdb
 
 ## Unstable structural models
 
