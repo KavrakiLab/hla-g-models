@@ -13,6 +13,7 @@ This work was submitted to Frontiers in Immunology and the following structural 
 ## Stable structural models
 
 * HLA-G1_membrane-bound-monomer.pdb
+* HLA-G1_membrane-bound-monomer_bilayer.pdb
 * HLA-G1_soluble-dimer.pdb    
 * HLA-G5_monomer_pep_b2m.pdb
 
@@ -42,7 +43,7 @@ Second, install Jupyter and NGLview using conda
 
     conda create --name nglview python=3.7
     conda activate nglview
-    conda install -c conda-forge jupyter nglview --name nglview
+    conda install -c conda-forge jupyter nglview
     jupyter-nbextension enable --py --sys-prefix widgetsnbextension
     jupyter-nbextension enable nglview --py --sys-prefix
     conda install -c conda-forge lxml
