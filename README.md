@@ -7,7 +7,7 @@ Authors: Thais Arns<sup>1</sup>, Dinler Antunes<sup>2</sup>, Jayvee R. Abella<su
 <sup>3</sup> Department of Genetics, Ribeirão Preto Medical School, University of São Paulo, Brazil.\
 \* Corresponding Author: eadonadi@usp.br
 
-This work was accepted for publication on Frontiers in Immunology and the following structural models were included as supplementary material.
+This work was accepted for publication on Frontiers in Immunology and the following structural models and molecular dynamics simulation videos were included as supplementary material.
 
 ## Stable structural models
 
