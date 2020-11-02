@@ -31,6 +31,12 @@ This work was submitted to Frontiers in Immunology and the following structural 
 * ApeGen_RIIPRHLQL-HLAG1_openmm-em.pdb
 * ApeGen_RLPKDFRIL-HLAG1_openmm-em.pdb
 
+## Molecular Dynamics Simulation Videos
+
+* HLA-G5 Monomer Simulation Video (file G5_monomer_r1.mpg).
+* HLA-G5 Monomer and nonapeptide Simulation Video (file G5_pep_r1.mpg).
+* HLA-G5 Monomer, nonapeptide and coupled β2-microglobulin Simulation Video (file G5_pep_beta_r1.mpg).
+
 ### Visualizing structures with NGLview
 
 First, clone this repo using one of the following commands:
